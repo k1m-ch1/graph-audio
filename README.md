@@ -22,6 +22,32 @@ uvx --from graph-audio graph-audio -i <input_audio> -o <output_video>.mp4
 
 Enjoy!
 
+## Without uvx
+
+First create a new virtual environment
+
+```
+python3 -m venv .venv
+```
+
+Activate it
+
+```
+source ./.venv/bin/activate
+```
+
+Download
+
+```
+pip install graph-audio
+```
+
+Run
+
+```
+graph_audio -i <input_audio> -o <output_video>.mp4
+```
+
 # About
 
 This is pretty simple, I hard coded the FPS to 30 and the frequency graph could be a bar graph with better scaling in the x-direction (since we're not that sensitive to the higher frequencies).
