@@ -10,11 +10,11 @@ Sound from this ![YouTube video](https://youtu.be/lU7nARUa2CA?si=vPn20fQ5m4wuF8r
 
 https://github.com/user-attachments/assets/1f44ace2-13b6-46e6-bd6b-a961c67eddf0
 
-Sound from this ![YouTube video)[https://youtu.be/6tI-0LBamGg?si=8GZ9T_O47nJY5Zf-]
+Sound from this ![YouTube video](https://youtu.be/6tI-0LBamGg?si=8GZ9T_O47nJY5Zf-)
 
 https://github.com/user-attachments/assets/83fe1d5a-8dfd-452d-9b58-97fc8e7ae825
 
-Sound from this ![YouTube video)[https://youtu.be/dxDpdfzwuD4?si=JWRt_Lk3XisGJw0m]
+Sound from this ![YouTube video](https://youtu.be/dxDpdfzwuD4?si=JWRt_Lk3XisGJw0m)
 
 # Requirements
 
