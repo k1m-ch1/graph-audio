@@ -1,7 +1,10 @@
 # Display
 
 
-![different digital bass](https://github.com/user-attachments/assets/1572f64a-af52-4e29-bf8b-840580080518)
+<video controls width="500">
+    <source src="https://github.com/user-attachments/assets/1572f64a-af52-4e29-bf8b-840580080518" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 Sound from this ![YouTube video](https://youtu.be/lU7nARUa2CA?si=vPn20fQ5m4wuF8r_)
 
