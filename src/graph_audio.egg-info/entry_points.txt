@@ -1,0 +1,2 @@
+[console_scripts]
+graph_audio = graph_audio.main:main
